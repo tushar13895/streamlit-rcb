@@ -9,7 +9,6 @@ from datetime import timedelta
 from datetime import datetime
 from plotly import graph_objs as go
 
-import seaborn as sns
 import plotly.express as px
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
 from sklearn.cluster import KMeans
