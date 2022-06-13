@@ -13,7 +13,6 @@ import plotly.express as px
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
-import matplotlib.pyplot  as plt
 
 from scipy.cluster.hierarchy import linkage
 from scipy.cluster.hierarchy import dendrogram
